@@ -1,6 +1,6 @@
 {
   "name": "epayco-sdk-node-ts",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Epayco API client for node.js and typescript",
   "main": "lib/index.js",
   "scripts": {
